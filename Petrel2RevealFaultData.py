@@ -36,7 +36,7 @@ def convert_petrel_tm_to_nnc5(tm_file, grid_file):
     - Extracts project name from TM file header
     - Writes metadata header including user and timestamp
     
-    This was written 
+    This was written using Petrel Version: 2024.9.0, Build date :September 26, 2025, Build number : 116819
 
     Parameters
     ----------
